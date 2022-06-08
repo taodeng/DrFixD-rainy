@@ -6,7 +6,7 @@ The dataset are available at link: https://pan.baidu.com/s/10IwZeAdN14HxDkF0F-mo
 
 # Dual-Branch Visual Model
 
-# Publish
+# Publication
 Han Tian, Tao Deng, and Hongmei Yan. Driving as well as on a Sunny Day? Predicting Driver’s Fixation in Rainy Weather Conditions via a Dual-branch Visual Model. IEEE/CAA Journal of Automatica Sinica, 2022.
 
 # Citation
